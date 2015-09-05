@@ -1,0 +1,10 @@
+# Assets sources
+*.ai
+
+# Blender backup files
+*.blend1
+*.blend2
+
+# Misc
+*.orig
+._*
